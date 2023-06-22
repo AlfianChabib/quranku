@@ -19,6 +19,7 @@ export default function Card({ data }) {
           <p>{data.nama}</p>
         </div>
       </Link>
+      ;
     </>
   );
 }
